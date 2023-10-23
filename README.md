@@ -1,5 +1,7 @@
 Module 1 challenge completed assignment 
 
+Original code was provided by the DU virrtual coding bootcamp 10/23 and was modified by Lillian Vanderbloemen. 
+
 My notes from the challenge 
 
 I used the view page source command in Google Chrome to review the original code and determine what needed to be adjusted. 
