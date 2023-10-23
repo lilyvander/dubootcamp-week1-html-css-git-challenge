@@ -1,7 +1,4 @@
-# du-bootcamp-module-1-challenge-10-23
 Module 1 challenge completed assignment 
-
-# DUBootcamp-Week1Challenge
 
 My notes from the challenge 
 
